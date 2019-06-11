@@ -1,0 +1,148 @@
+/*
+* @Author: lenovo
+* @Date:   2019-06-11 09:04:51
+* @Last Modified by:   lenovo
+* @Last Modified time: 2019-06-11 19:58:27
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+.container{
+	height: 1090px;
+	background-color: #2e2e2e;
+}
+.header-container{
+	height: 30px;
+	background-color: #f4f4f4;
+}
+.header{
+	width: 1200px;
+	height: 30px;
+	margin: 0 auto;
+	font-size: 12px;
+}
+.header-left{
+	float: left;
+	line-height: 30px;
+}
+.header-right{
+	float: right;
+	line-height: 30px;
+}
+.header-left-2{
+	margin-left: 11px;
+}
+.header-left img{
+	margin-left: 11px;
+}
+.header-right-2{
+	margin-left: 11px;
+}
+.header-right-3{
+	margin-left: 8px;
+	margin-right: 4px;
+}
+.header-right-4{
+	margin-left: 4px;
+}
+.nav-container{
+	height: 160px;
+	background-color: #ffffff;
+	border-top:1px solid #ececec;
+	border-bottom: 3px solid #e00304;
+}
+.nav{
+	height: 160px;
+	width: 1200px;
+	/* background-color: green; */
+	margin: 0 auto;
+}
+.logo{
+	margin-top:22px ;
+	margin-right: 200px;
+}
+.nav input{
+	height: 40px;
+	width: 409px;
+	border: 2px solid #f83838;
+	margin-top: 40px;
+}
+.so{
+	height: 40px;
+	width: 91px;
+	background-color: #f83838;
+	margin-right: 161px;
+}
+.so a{
+	color: ;
+    line-height: 40px;
+    margin-left:28px ;
+}
+.car{
+	height: 40px;
+	width: 150px;
+	margin: 40px;
+	border: 1px solid #e3e3e3;
+	background-color: #f5f5f5;
+}
+.car img{
+	margin-left: 26px;
+	line-height: 40px;
+	margin-right: 6px;
+}
+.car span{
+	line-height:40px ;
+}
+.nav ul{
+	float: left;
+}
+.nav li{
+	float: right;
+}
+.major-container{
+	height: 652px;
+	background-color: #fbfbfb;
+}
+.major{
+	height: 652px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.link{
+	height: 67px;
+	width: 1200px;
+}
+.link p{
+	line-height: 67px;
+}
+/*  */
+.liulan{
+	height: 151px;
+	width: 1200px;
+	border-bottom: 1px solid #454545;
+	margin: 0 auto;
+}
+.liulan ul{
+	display: inline-block;
+	margin-right: 191px;
+}
+.last{
+	margin-right: 0px;
+}
+.liulan li a{
+	color: #f5f5f5;
+}
+.wide li{
+	float: right;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+
